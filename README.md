@@ -12,7 +12,7 @@ Projeto feito por: Matheus Farias.
 Video de gameplay
 ----
 Gameplay do projeto mostrando as funcionalidades
-https://youtu.be/8udzXofU3RY
+https://youtu.be/MNe8w67jbGc
 
 Lista de Ações do Personagem 
 ----
