@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -95,7 +95,553 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: BrownWerwolf_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 512
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258039511412bb048949823346757d3d
+      internalID: -1697422097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 512
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ec466ed834689479f78ccd0080b6b1
+      internalID: 2069605406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 512
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dedbbdb5d001c849a09a5f88a84217a
+      internalID: 25237669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 512
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0517e53e97863694f964358e04fb3cf5
+      internalID: 867969154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 384
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f5dc80e4ed3e644a50881c6e3541a1
+      internalID: 1672543164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 384
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4521360393387429836da8652da7dd
+      internalID: 230811983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 384
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bbe325856ff414fab54a10b6128df2
+      internalID: -161346456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 384
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3672c3446d36743b59ae5bcb1c0a3a
+      internalID: -658973175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 256
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9165ddfb2d187449f0511e8a41ed54
+      internalID: 2019647885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 256
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5951caa7b9cf73c44b1a0cb7dabcf6a5
+      internalID: -704052589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 256
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1916fd81c4435ff4bb0e23203e4ebb2b
+      internalID: 2127420365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 256
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f231d82c19611414bb2538af690079ce
+      internalID: 687069867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_12
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 256
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9be1b841615aa449e10fb901f3403b
+      internalID: -637990793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_13
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 256
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c24b7e82d494a4ebbd66375ae2ba62
+      internalID: -1917135570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b580b524f5b44954e8913fe032dcd000
+      internalID: 253936213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 128
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9c141133349464f87e840429326a21
+      internalID: 1181260337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_16
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 128
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e05a9a4e15ab145bda1bbc99ca19ea
+      internalID: -24736481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_17
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 128
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cb302a9ba8d0d4ba0ca69b3daface2
+      internalID: -541290667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_18
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 128
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bde58f9b40f5043b67464eca6797d8
+      internalID: 1025891107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_19
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 128
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae6515e7ff2f5744b64dcce8f7bc390
+      internalID: -654019129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc46cf5da23a49348823215246a5b35d
+      internalID: -1222069350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d376781b66ff743b4b796ac3fb38f2
+      internalID: 188308006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9505ca9ebc895f0498b78c7ff0319cbb
+      internalID: -530688388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_23
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6533e42f29693be4dbe5ef285b294e91
+      internalID: 451423832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_24
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdcd46cc1c8575499ff9285770abc8d
+      internalID: 1959244401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownWerwolf_25
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 0
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71ac191e8df1e447af15da3e1e9aaed
+      internalID: 400441777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +652,33 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BrownWerwolf_0: -1697422097
+      BrownWerwolf_1: 2069605406
+      BrownWerwolf_10: 2127420365
+      BrownWerwolf_11: 687069867
+      BrownWerwolf_12: -637990793
+      BrownWerwolf_13: -1917135570
+      BrownWerwolf_14: 253936213
+      BrownWerwolf_15: 1181260337
+      BrownWerwolf_16: -24736481
+      BrownWerwolf_17: -541290667
+      BrownWerwolf_18: 1025891107
+      BrownWerwolf_19: -654019129
+      BrownWerwolf_2: 25237669
+      BrownWerwolf_20: -1222069350
+      BrownWerwolf_21: 188308006
+      BrownWerwolf_22: -530688388
+      BrownWerwolf_23: 451423832
+      BrownWerwolf_24: 1959244401
+      BrownWerwolf_25: 400441777
+      BrownWerwolf_3: 867969154
+      BrownWerwolf_4: 1672543164
+      BrownWerwolf_5: 230811983
+      BrownWerwolf_6: -161346456
+      BrownWerwolf_7: -658973175
+      BrownWerwolf_8: 2019647885
+      BrownWerwolf_9: -704052589
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Ground
   - Enemy
+  - boss
+  - wall
+  - Escada
+  - Vazio
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -13,9 +18,9 @@ TagManager:
   - Ground
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Escada
+  - wall
+  - Vazio
   - 
   - 
   - 
